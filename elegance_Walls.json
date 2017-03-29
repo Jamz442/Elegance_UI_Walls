@@ -1,0 +1,35 @@
+{
+	"Wallpapers":
+		[
+			{
+				"author": "Joshua M",
+				"url": "https://raw.githubusercontent.com/Jamz442/Elegance_UI_Walls/master/Gradient.png",
+				"thumbUrl": "https://raw.githubusercontent.com/Jamz442/Elegance_UI_Walls/master/Gradient.png",
+				"name": "Gradient"
+			},
+			{
+				"author": "Joshua M",
+				"url": "https://raw.githubusercontent.com/Jamz442/Elegance_UI_Walls/master/Techora.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/Jamz442/Elegance_UI_Walls/master/Techora.jpg",
+				"name": "Techora"
+			},
+			{
+				"author": "Joshua M",
+				"url": "https://raw.githubusercontent.com/Jamz442/Elegance_UI_Walls/master/Starry.png",
+				"thumbUrl": "https://raw.githubusercontent.com/Jamz442/Elegance_UI_Walls/master/Starry.png",
+				"name": "Starry"
+			},
+			{
+				"author": "Joshua M",
+				"url": "https://raw.githubusercontent.com/Jamz442/Elegance_UI_Walls/master/Peach.png",
+				"thumbUrl": "https://raw.githubusercontent.com/Jamz442/Elegance_UI_Walls/master/Peach.png",
+				"name": "Peach"
+			},
+			{
+				"author": "Joshua M",
+				"url": "https://raw.githubusercontent.com/Jamz442/Elegance_UI_Walls/master/White.png",
+				"thumbUrl": "https://raw.githubusercontent.com/Jamz442/Elegance_UI_Walls/master/White.png",
+				"name": "White"
+			}
+		]
+}
